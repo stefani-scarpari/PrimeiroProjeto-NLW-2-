@@ -4,4 +4,6 @@ O projeto Proffy é uma plataforma de estudos. Nela é possível se cadastrar pa
 Foi desenvolvido durante a Next Level Week 2, um evento para programadores criado pela empresa Rocketseat.
 
 
+
+
 ![Proffy](https://github.com/stefani-scarpari/PrimeiroProjeto-NLW-2-/blob/main/Proffy.png)
